@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s4_11.jpg">
+    <box top="300" left="895" width="115" height="124">
+      <label>fireextinguisher</label>
+    </box>
+  </image>
+  

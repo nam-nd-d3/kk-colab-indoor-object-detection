@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s3_128.jpg">
+    <box top="321" left="459" width="38" height="42">
+      <label>fireextinguisher</label>
+    </box>
+    <box top="334" left="641" width="45" height="38">
+      <label>exit</label>
+    </box>
+  </image>
+  

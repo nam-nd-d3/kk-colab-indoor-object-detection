@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s3_112.jpg">
+    <box top="104" left="535" width="89" height="87">
+      <label>clock</label>
+    </box>
+    <box top="109" left="723" width="86" height="78">
+      <label>clock</label>
+    </box>
+  </image>
+  

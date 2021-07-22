@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s4_61.jpg">
+    <box top="120" left="533" width="179" height="172">
+      <label>clock</label>
+    </box>
+  </image>
+  

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s2_142.jpg">
+    <box top="85" left="400" width="336" height="506">
+      <label>trashbin</label>
+    </box>
+  </image>
+  

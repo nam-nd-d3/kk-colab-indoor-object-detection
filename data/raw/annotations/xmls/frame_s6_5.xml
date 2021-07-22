@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s6_5.jpg">
+    <box top="492" left="422" width="118" height="199">
+      <label>chair</label>
+    </box>
+    <box top="94" left="775" width="77" height="52">
+      <label>exit</label>
+    </box>
+  </image>
+  

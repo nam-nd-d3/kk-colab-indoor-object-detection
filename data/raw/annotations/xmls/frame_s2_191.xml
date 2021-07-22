@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s2_191.jpg">
+    <box top="85" left="319" width="304" height="472">
+      <label>chair</label>
+    </box>
+  </image>
+  

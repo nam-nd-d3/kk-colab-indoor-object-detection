@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s2_135.jpg">
+    <box top="238" left="417" width="146" height="238">
+      <label>trashbin</label>
+    </box>
+    <box top="198" left="815" width="371" height="505">
+      <label>printer</label>
+    </box>
+  </image>
+  

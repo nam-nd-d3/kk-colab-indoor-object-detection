@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s3_6.jpg">
+    <box top="231" left="3" width="86" height="129">
+      <label>chair</label>
+    </box>
+    <box top="145" left="774" width="458" height="575">
+      <label>printer</label>
+    </box>
+    <box top="182" left="252" width="210" height="268">
+      <label>trashbin</label>
+    </box>
+    <box top="209" left="145" width="109" height="230">
+      <label>trashbin</label>
+    </box>
+  </image>
+  

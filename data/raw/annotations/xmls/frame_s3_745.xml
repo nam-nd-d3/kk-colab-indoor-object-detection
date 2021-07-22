@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s3_745.jpg">
+    <box top="261" left="844" width="426" height="441">
+      <label>chair</label>
+    </box>
+    <box top="10" left="238" width="391" height="664">
+      <label>chair</label>
+    </box>
+  </image>
+  

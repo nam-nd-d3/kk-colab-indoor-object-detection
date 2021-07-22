@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s4_24.jpg">
+    <box top="217" left="406" width="112" height="65">
+      <label>exit</label>
+    </box>
+  </image>
+  

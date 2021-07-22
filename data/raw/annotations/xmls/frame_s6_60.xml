@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s6_60.jpg">
+    <box top="258" left="881" width="98" height="61">
+      <label>exit</label>
+    </box>
+    <box top="389" left="651" width="73" height="71">
+      <label>clock</label>
+    </box>
+    <box top="37" left="155" width="111" height="113">
+      <label>fireextinguisher</label>
+    </box>
+  </image>
+  

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s2_121.jpg">
+    <box top="414" left="816" width="37" height="104">
+      <label>trashbin</label>
+    </box>
+    <box top="160" left="503" width="82" height="76">
+      <label>clock</label>
+    </box>
+    <box top="246" left="836" width="31" height="33">
+      <label>fireextinguisher</label>
+    </box>
+  </image>
+  

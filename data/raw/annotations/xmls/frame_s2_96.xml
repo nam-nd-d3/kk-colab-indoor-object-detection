@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s2_96.jpg">
+    <box top="7" left="486" width="516" height="701">
+      <label>printer</label>
+    </box>
+  </image>
+  

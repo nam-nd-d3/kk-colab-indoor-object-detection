@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<image file="frame_s2_168.jpg">
+    <box top="2" left="450" width="719" height="589">
+      <label>screen</label>
+    </box>
+  </image>
+  
