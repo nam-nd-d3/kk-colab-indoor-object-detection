@@ -42,17 +42,29 @@ def attach_name_n_exts(name, ext):
     return f"{name}.{ext}"
 
 
+def move_files(current_path, des_path):
+    shutil.move(current_path, des_path)
+    return True
+
+
 if __name__ == "__main__":
     input_xml_path = "./data/annotations/pascal_voc_xmls/"
     input_img_path = "./data/images/"
 
-    fold1_path = "./data/fold1/"
-    fold2_path = "./data/fold2/"
+    fold1_img_path = "./data/fold1/images"
+    fold1_xml_path = "./data/fold1/annotations"
 
-    if not os.path.exists(fold1_path):
-        os.makedirs(fold1_path)
-    if not os.path.exists(fold2_path):
-        os.makedirs(fold2_path)
+    fold2_img_path = "./data/fold2/images"
+    fold2_xml_path = "./data/fold2/annotations"
+
+    if not os.path.exists(fold1_img_path):
+        os.makedirs(fold1_img_path)
+    if not os.path.exists(fold1_xml_path):
+        os.makedirs(fold1_xml_path)
+    if not os.path.exists(fold2_img_path):
+        os.makedirs(fold2_img_path)
+    if not os.path.exists(fold2_xml_path):
+        os.makedirs(fold2_xml_path)
 
     xml_files = os.listdir(input_xml_path)
     img_files = os.listdir(input_img_path)
@@ -75,8 +87,8 @@ if __name__ == "__main__":
         for f1 in fold1_dirs:
             f1_xml = f1 + xml_ext
             f1_img = f1 + img_ext
-            copy_file(input_xml_path, f1_xml, fold1_path)
-            copy_file(input_img_path, f1_img, fold1_path)
+            copy_file(input_xml_path, f1_xml, fold1_xml_path)
+            copy_file(input_img_path, f1_img, fold1_img_path)
 
             progressbar.update(1)
 
@@ -85,7 +97,7 @@ if __name__ == "__main__":
         for f2 in fold2_dirs:
             f2_img = f2 + img_ext
             f2_xml = f2 + xml_ext
-            copy_file(input_xml_path, f2_xml, fold2_path)
-            copy_file(input_img_path, f2_img, fold2_path)
+            copy_file(input_xml_path, f2_xml, fold2_xml_path)
+            copy_file(input_img_path, f2_img, fold2_img_path)
 
             progressbar.update(1)
