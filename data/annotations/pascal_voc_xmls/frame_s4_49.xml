@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s4_49.jpg</filename>
+  <path>./data/images\frame_s4_49.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>315</xmin>
+  <ymin>81</ymin>
+  <xmax>520</xmax>
+  <ymax>620</ymax>
+</bndbox>
+</object>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>841</xmin>
+  <ymin>8</ymin>
+  <xmax>1193</xmax>
+  <ymax>712</ymax>
+</bndbox>
+</object>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>546</xmin>
+  <ymin>54</ymin>
+  <xmax>805</xmax>
+  <ymax>669</ymax>
+</bndbox>
+</object>
+</annotation>

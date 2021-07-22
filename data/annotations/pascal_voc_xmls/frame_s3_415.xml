@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_415.jpg</filename>
+  <path>./data/images\frame_s3_415.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>498</xmin>
+  <ymin>327</ymin>
+  <xmax>661</xmax>
+  <ymax>530</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>681</xmin>
+  <ymin>316</ymin>
+  <xmax>790</xmax>
+  <ymax>415</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>789</xmin>
+  <ymin>312</ymin>
+  <xmax>903</xmax>
+  <ymax>425</ymax>
+</bndbox>
+</object>
+</annotation>

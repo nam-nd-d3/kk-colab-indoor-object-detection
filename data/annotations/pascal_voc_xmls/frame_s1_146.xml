@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s1_146.jpg</filename>
+  <path>./data/images\frame_s1_146.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>456</xmin>
+  <ymin>207</ymin>
+  <xmax>652</xmax>
+  <ymax>308</ymax>
+</bndbox>
+</object>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>756</xmin>
+  <ymin>295</ymin>
+  <xmax>998</xmax>
+  <ymax>411</ymax>
+</bndbox>
+</object>
+</annotation>

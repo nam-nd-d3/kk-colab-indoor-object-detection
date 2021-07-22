@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s4_261.jpg</filename>
+  <path>./data/images\frame_s4_261.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>511</xmin>
+  <ymin>179</ymin>
+  <xmax>840</xmax>
+  <ymax>707</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>797</xmin>
+  <ymin>114</ymin>
+  <xmax>1183</xmax>
+  <ymax>681</ymax>
+</bndbox>
+</object>
+</annotation>

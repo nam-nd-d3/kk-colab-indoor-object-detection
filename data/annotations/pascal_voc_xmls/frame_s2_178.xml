@@ -1,0 +1,62 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s2_178.jpg</filename>
+  <path>./data/images\frame_s2_178.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>802</xmin>
+  <ymin>119</ymin>
+  <xmax>1075</xmax>
+  <ymax>500</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>135</xmin>
+  <ymin>275</ymin>
+  <xmax>512</xmax>
+  <ymax>695</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>1105</xmin>
+  <ymin>54</ymin>
+  <xmax>1240</xmax>
+  <ymax>298</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>222</xmin>
+  <ymin>57</ymin>
+  <xmax>403</xmax>
+  <ymax>249</ymax>
+</bndbox>
+</object>
+</annotation>

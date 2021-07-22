@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s4_187.jpg</filename>
+  <path>./data/images\frame_s4_187.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>1064</xmin>
+  <ymin>27</ymin>
+  <xmax>1179</xmax>
+  <ymax>161</ymax>
+</bndbox>
+</object>
+<object>
+<name>clock</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>1045</xmin>
+  <ymin>258</ymin>
+  <xmax>1093</xmax>
+  <ymax>311</ymax>
+</bndbox>
+</object>
+</annotation>

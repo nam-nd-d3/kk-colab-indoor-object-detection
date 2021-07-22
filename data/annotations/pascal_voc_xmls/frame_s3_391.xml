@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_391.jpg</filename>
+  <path>./data/images\frame_s3_391.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>514</xmin>
+  <ymin>324</ymin>
+  <xmax>668</xmax>
+  <ymax>516</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>799</xmin>
+  <ymin>318</ymin>
+  <xmax>886</xmax>
+  <ymax>453</ymax>
+</bndbox>
+</object>
+</annotation>

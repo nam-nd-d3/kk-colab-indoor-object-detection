@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s2_161.jpg</filename>
+  <path>./data/images\frame_s2_161.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>17</xmin>
+  <ymin>29</ymin>
+  <xmax>250</xmax>
+  <ymax>329</ymax>
+</bndbox>
+</object>
+<object>
+<name>printer</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>481</xmin>
+  <ymin>2</ymin>
+  <xmax>905</xmax>
+  <ymax>586</ymax>
+</bndbox>
+</object>
+</annotation>

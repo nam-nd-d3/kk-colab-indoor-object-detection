@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s6_29.jpg</filename>
+  <path>./data/images\frame_s6_29.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>761</xmin>
+  <ymin>204</ymin>
+  <xmax>809</xmax>
+  <ymax>239</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>484</xmin>
+  <ymin>174</ymin>
+  <xmax>526</xmax>
+  <ymax>214</ymax>
+</bndbox>
+</object>
+<object>
+<name>clock</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>641</xmin>
+  <ymin>251</ymin>
+  <xmax>688</xmax>
+  <ymax>301</ymax>
+</bndbox>
+</object>
+</annotation>

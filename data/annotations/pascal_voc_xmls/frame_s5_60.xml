@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s5_60.jpg</filename>
+  <path>./data/images\frame_s5_60.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>626</xmin>
+  <ymin>110</ymin>
+  <xmax>714</xmax>
+  <ymax>205</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>488</xmin>
+  <ymin>532</ymin>
+  <xmax>600</xmax>
+  <ymax>694</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>656</xmin>
+  <ymin>441</ymin>
+  <xmax>720</xmax>
+  <ymax>578</ymax>
+</bndbox>
+</object>
+</annotation>

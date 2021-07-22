@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_848.jpg</filename>
+  <path>./data/images\frame_s3_848.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>clock</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>661</xmin>
+  <ymin>82</ymin>
+  <xmax>732</xmax>
+  <ymax>154</ymax>
+</bndbox>
+</object>
+<object>
+<name>printer</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>630</xmin>
+  <ymin>396</ymin>
+  <xmax>841</xmax>
+  <ymax>719</ymax>
+</bndbox>
+</object>
+</annotation>

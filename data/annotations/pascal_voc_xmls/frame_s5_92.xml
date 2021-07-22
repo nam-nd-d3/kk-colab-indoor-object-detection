@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s5_92.jpg</filename>
+  <path>./data/images\frame_s5_92.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>545</xmin>
+  <ymin>63</ymin>
+  <xmax>649</xmax>
+  <ymax>189</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>582</xmin>
+  <ymin>374</ymin>
+  <xmax>686</xmax>
+  <ymax>563</ymax>
+</bndbox>
+</object>
+</annotation>

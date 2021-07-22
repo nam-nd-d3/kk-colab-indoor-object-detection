@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_95.jpg</filename>
+  <path>./data/images\frame_s3_95.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>721</xmin>
+  <ymin>103</ymin>
+  <xmax>823</xmax>
+  <ymax>189</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>536</xmin>
+  <ymin>303</ymin>
+  <xmax>567</xmax>
+  <ymax>337</ymax>
+</bndbox>
+</object>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>1028</xmin>
+  <ymin>257</ymin>
+  <xmax>1248</xmax>
+  <ymax>528</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_269.jpg</filename>
+  <path>./data/images\frame_s3_269.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>620</xmin>
+  <ymin>585</ymin>
+  <xmax>708</xmax>
+  <ymax>700</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>178</xmin>
+  <ymin>124</ymin>
+  <xmax>307</xmax>
+  <ymax>276</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>885</xmin>
+  <ymin>11</ymin>
+  <xmax>1050</xmax>
+  <ymax>130</ymax>
+</bndbox>
+</object>
+</annotation>

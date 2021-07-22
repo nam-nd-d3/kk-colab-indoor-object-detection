@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_76.jpg</filename>
+  <path>./data/images\frame_s3_76.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>752</xmin>
+  <ymin>75</ymin>
+  <xmax>826</xmax>
+  <ymax>241</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>621</xmin>
+  <ymin>36</ymin>
+  <xmax>738</xmax>
+  <ymax>259</ymax>
+</bndbox>
+</object>
+<object>
+<name>printer</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>394</xmin>
+  <ymin>62</ymin>
+  <xmax>614</xmax>
+  <ymax>384</ymax>
+</bndbox>
+</object>
+</annotation>

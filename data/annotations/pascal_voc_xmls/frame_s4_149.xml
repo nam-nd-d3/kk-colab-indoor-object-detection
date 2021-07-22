@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s4_149.jpg</filename>
+  <path>./data/images\frame_s4_149.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>551</xmin>
+  <ymin>132</ymin>
+  <xmax>764</xmax>
+  <ymax>568</ymax>
+</bndbox>
+</object>
+</annotation>

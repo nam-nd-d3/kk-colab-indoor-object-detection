@@ -1,0 +1,34 @@
+Indoor Object Detection Dataset (Version 1.1)
+
+
+Brief info about the contains of this directory
+
+1. annotaiton 
+- contains annotation files with bounnding box annotation of images in dlib xml format
+- .xml files contains annotation of images from different directories
+- .xsl file is stylesheet to visualize xml files in browser
+
+2. sequeence_1 - sequence_6
+- contains images extracted from sequences of videos
+- copy specific annotations.xml file to the corresponding folder together with stylesheet.xsl 
+  to visualize the images together with annotation in browser(e.g.Firefox)
+
+
+
+------------------------------------------------------
+Version 1.0
+- Original dataset (images with annotations)
+
+Date: 03.06.2018
+Bishwo Adhikari
+
+
+------------------------------------------------------
+Version 1.1
+- Cleaner version
+
+Date: 30.01.2019
+Bishwo Adhikari
+------------------------------------------------------
+
+

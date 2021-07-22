@@ -1,0 +1,62 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_25.jpg</filename>
+  <path>./data/images\frame_s3_25.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>7</xmin>
+  <ymin>141</ymin>
+  <xmax>157</xmax>
+  <ymax>412</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>394</xmin>
+  <ymin>147</ymin>
+  <xmax>575</xmax>
+  <ymax>534</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>546</xmin>
+  <ymin>103</ymin>
+  <xmax>839</xmax>
+  <ymax>619</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>798</xmin>
+  <ymin>113</ymin>
+  <xmax>1139</xmax>
+  <ymax>682</ymax>
+</bndbox>
+</object>
+</annotation>

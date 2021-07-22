@@ -1,0 +1,34 @@
+item {
+  id: 0
+  name: 'fireextinguisher'
+}
+
+item {
+  id: 1
+  name: 'chair'
+}
+
+item {
+  id: 2
+  name: 'exit'
+}
+
+item {
+  id: 3
+  name: 'clock'
+}
+
+item {
+  id: 4
+  name: 'trashbin'
+}
+
+item {
+  id: 5
+  name: 'screen'
+}
+
+item {
+  id: 6
+  name: 'printer'
+}

@@ -1,0 +1,62 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s6_182.jpg</filename>
+  <path>./data/images\frame_s6_182.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>429</xmin>
+  <ymin>205</ymin>
+  <xmax>530</xmax>
+  <ymax>273</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>658</xmin>
+  <ymin>303</ymin>
+  <xmax>695</xmax>
+  <ymax>350</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>1017</xmin>
+  <ymin>320</ymin>
+  <xmax>1058</xmax>
+  <ymax>363</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>750</xmin>
+  <ymin>561</ymin>
+  <xmax>817</xmax>
+  <ymax>687</ymax>
+</bndbox>
+</object>
+</annotation>

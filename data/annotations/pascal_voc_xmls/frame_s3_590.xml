@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_590.jpg</filename>
+  <path>./data/images\frame_s3_590.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>461</xmin>
+  <ymin>175</ymin>
+  <xmax>729</xmax>
+  <ymax>591</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>184</xmin>
+  <ymin>174</ymin>
+  <xmax>476</xmax>
+  <ymax>480</ymax>
+</bndbox>
+</object>
+</annotation>

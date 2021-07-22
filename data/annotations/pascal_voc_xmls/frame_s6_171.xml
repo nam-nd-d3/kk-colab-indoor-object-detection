@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s6_171.jpg</filename>
+  <path>./data/images\frame_s6_171.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>clock</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>276</xmin>
+  <ymin>2</ymin>
+  <xmax>568</xmax>
+  <ymax>274</ymax>
+</bndbox>
+</object>
+</annotation>

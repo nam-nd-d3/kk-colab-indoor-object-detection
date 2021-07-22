@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s6_92.jpg</filename>
+  <path>./data/images\frame_s6_92.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>clock</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>654</xmin>
+  <ymin>434</ymin>
+  <xmax>759</xmax>
+  <ymax>540</ymax>
+</bndbox>
+</object>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>944</xmin>
+  <ymin>107</ymin>
+  <xmax>1139</xmax>
+  <ymax>223</ymax>
+</bndbox>
+</object>
+</annotation>
