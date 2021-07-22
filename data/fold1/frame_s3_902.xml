@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_902.jpg</filename>
+  <path>./data/images\frame_s3_902.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>printer</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>695</xmin>
+  <ymin>50</ymin>
+  <xmax>1236</xmax>
+  <ymax>716</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>561</xmin>
+  <ymin>38</ymin>
+  <xmax>746</xmax>
+  <ymax>374</ymax>
+</bndbox>
+</object>
+</annotation>

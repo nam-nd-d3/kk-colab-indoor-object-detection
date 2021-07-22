@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s2_156.jpg</filename>
+  <path>./data/images\frame_s2_156.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>166</xmin>
+  <ymin>21</ymin>
+  <xmax>278</xmax>
+  <ymax>131</ymax>
+</bndbox>
+</object>
+<object>
+<name>clock</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>760</xmin>
+  <ymin>253</ymin>
+  <xmax>821</xmax>
+  <ymax>305</ymax>
+</bndbox>
+</object>
+</annotation>

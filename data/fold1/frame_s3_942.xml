@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_942.jpg</filename>
+  <path>./data/images\frame_s3_942.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>778</xmin>
+  <ymin>503</ymin>
+  <xmax>920</xmax>
+  <ymax>681</ymax>
+</bndbox>
+</object>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>574</xmin>
+  <ymin>227</ymin>
+  <xmax>623</xmax>
+  <ymax>271</ymax>
+</bndbox>
+</object>
+</annotation>

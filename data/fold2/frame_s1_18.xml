@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s1_18.jpg</filename>
+  <path>./data/images\frame_s1_18.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>670</xmin>
+  <ymin>102</ymin>
+  <xmax>742</xmax>
+  <ymax>178</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>672</xmin>
+  <ymin>367</ymin>
+  <xmax>760</xmax>
+  <ymax>607</ymax>
+</bndbox>
+</object>
+</annotation>

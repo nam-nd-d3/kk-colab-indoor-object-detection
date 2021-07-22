@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_347.jpg</filename>
+  <path>./data/images\frame_s3_347.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>529</xmin>
+  <ymin>118</ymin>
+  <xmax>594</xmax>
+  <ymax>277</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>791</xmin>
+  <ymin>82</ymin>
+  <xmax>832</xmax>
+  <ymax>132</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>341</xmin>
+  <ymin>312</ymin>
+  <xmax>686</xmax>
+  <ymax>717</ymax>
+</bndbox>
+</object>
+</annotation>

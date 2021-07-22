@@ -1,0 +1,62 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_74.jpg</filename>
+  <path>./data/images\frame_s3_74.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>943</xmin>
+  <ymin>146</ymin>
+  <xmax>1262</xmax>
+  <ymax>552</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>530</xmin>
+  <ymin>72</ymin>
+  <xmax>618</xmax>
+  <ymax>236</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>435</xmin>
+  <ymin>48</ymin>
+  <xmax>531</xmax>
+  <ymax>241</ymax>
+</bndbox>
+</object>
+<object>
+<name>printer</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>243</xmin>
+  <ymin>51</ymin>
+  <xmax>437</xmax>
+  <ymax>283</ymax>
+</bndbox>
+</object>
+</annotation>

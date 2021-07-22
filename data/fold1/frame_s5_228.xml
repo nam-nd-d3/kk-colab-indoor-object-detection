@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s5_228.jpg</filename>
+  <path>./data/images\frame_s5_228.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>831</xmin>
+  <ymin>19</ymin>
+  <xmax>1220</xmax>
+  <ymax>716</ymax>
+</bndbox>
+</object>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>24</xmin>
+  <ymin>228</ymin>
+  <xmax>261</xmax>
+  <ymax>460</ymax>
+</bndbox>
+</object>
+</annotation>

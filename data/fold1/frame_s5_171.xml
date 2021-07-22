@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s5_171.jpg</filename>
+  <path>./data/images\frame_s5_171.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>584</xmin>
+  <ymin>391</ymin>
+  <xmax>726</xmax>
+  <ymax>666</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>610</xmin>
+  <ymin>27</ymin>
+  <xmax>708</xmax>
+  <ymax>126</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_754.jpg</filename>
+  <path>./data/images\frame_s3_754.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>833</xmin>
+  <ymin>215</ymin>
+  <xmax>1280</xmax>
+  <ymax>693</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>261</xmin>
+  <ymin>3</ymin>
+  <xmax>645</xmax>
+  <ymax>661</ymax>
+</bndbox>
+</object>
+</annotation>

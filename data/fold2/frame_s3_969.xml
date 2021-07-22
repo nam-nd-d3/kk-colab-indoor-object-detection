@@ -1,0 +1,62 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_969.jpg</filename>
+  <path>./data/images\frame_s3_969.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>553</xmin>
+  <ymin>136</ymin>
+  <xmax>898</xmax>
+  <ymax>549</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>187</xmin>
+  <ymin>134</ymin>
+  <xmax>524</xmax>
+  <ymax>454</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>834</xmin>
+  <ymin>156</ymin>
+  <xmax>1201</xmax>
+  <ymax>679</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>8</xmin>
+  <ymin>239</ymin>
+  <xmax>241</xmax>
+  <ymax>627</ymax>
+</bndbox>
+</object>
+</annotation>

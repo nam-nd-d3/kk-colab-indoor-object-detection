@@ -1,0 +1,14 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s4_28.jpg</filename>
+  <path>./data/images\frame_s4_28.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>

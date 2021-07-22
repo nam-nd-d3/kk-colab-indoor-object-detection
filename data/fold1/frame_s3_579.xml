@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_579.jpg</filename>
+  <path>./data/images\frame_s3_579.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>44</xmin>
+  <ymin>140</ymin>
+  <xmax>381</xmax>
+  <ymax>444</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>695</xmin>
+  <ymin>136</ymin>
+  <xmax>948</xmax>
+  <ymax>530</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>452</xmin>
+  <ymin>137</ymin>
+  <xmax>706</xmax>
+  <ymax>405</ymax>
+</bndbox>
+</object>
+</annotation>
