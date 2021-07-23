@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s2_134.jpg</filename>
+  <path>./data/images\frame_s2_134.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>507</xmin>
+  <ymin>312</ymin>
+  <xmax>630</xmax>
+  <ymax>529</ymax>
+</bndbox>
+</object>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>263</xmin>
+  <ymin>28</ymin>
+  <xmax>318</xmax>
+  <ymax>83</ymax>
+</bndbox>
+</object>
+<object>
+<name>printer</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>813</xmin>
+  <ymin>281</ymin>
+  <xmax>1144</xmax>
+  <ymax>716</ymax>
+</bndbox>
+</object>
+</annotation>

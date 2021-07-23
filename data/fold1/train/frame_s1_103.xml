@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s1_103.jpg</filename>
+  <path>./data/images\frame_s1_103.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>148</xmin>
+  <ymin>14</ymin>
+  <xmax>453</xmax>
+  <ymax>446</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>795</xmin>
+  <ymin>55</ymin>
+  <xmax>1181</xmax>
+  <ymax>552</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>463</xmin>
+  <ymin>20</ymin>
+  <xmax>618</xmax>
+  <ymax>608</ymax>
+</bndbox>
+</object>
+</annotation>

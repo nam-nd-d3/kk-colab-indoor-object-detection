@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s5_186.jpg</filename>
+  <path>./data/images\frame_s5_186.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>582</xmin>
+  <ymin>215</ymin>
+  <xmax>668</xmax>
+  <ymax>267</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s4_6.jpg</filename>
+  <path>./data/images\frame_s4_6.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>exit</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>435</xmin>
+  <ymin>71</ymin>
+  <xmax>588</xmax>
+  <ymax>184</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>1128</xmin>
+  <ymin>445</ymin>
+  <xmax>1206</xmax>
+  <ymax>530</ymax>
+</bndbox>
+</object>
+</annotation>

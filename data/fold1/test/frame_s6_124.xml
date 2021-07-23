@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s6_124.jpg</filename>
+  <path>./data/images\frame_s6_124.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>535</xmin>
+  <ymin>349</ymin>
+  <xmax>634</xmax>
+  <ymax>534</ymax>
+</bndbox>
+</object>
+<object>
+<name>fireextinguisher</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>548</xmin>
+  <ymin>126</ymin>
+  <xmax>578</xmax>
+  <ymax>155</ymax>
+</bndbox>
+</object>
+<object>
+<name>screen</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>653</xmin>
+  <ymin>251</ymin>
+  <xmax>834</xmax>
+  <ymax>367</ymax>
+</bndbox>
+</object>
+</annotation>

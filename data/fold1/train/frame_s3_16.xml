@@ -1,0 +1,50 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_16.jpg</filename>
+  <path>./data/images\frame_s3_16.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>339</xmin>
+  <ymin>170</ymin>
+  <xmax>455</xmax>
+  <ymax>303</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>558</xmin>
+  <ymin>126</ymin>
+  <xmax>650</xmax>
+  <ymax>394</ymax>
+</bndbox>
+</object>
+<object>
+<name>trashbin</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>619</xmin>
+  <ymin>129</ymin>
+  <xmax>838</xmax>
+  <ymax>437</ymax>
+</bndbox>
+</object>
+</annotation>

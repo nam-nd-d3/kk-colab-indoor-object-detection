@@ -1,0 +1,62 @@
+<annotation verified="no">
+  <folder>./data/images</folder>
+  <filename>frame_s3_484.jpg</filename>
+  <path>./data/images\frame_s3_484.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>108</xmin>
+  <ymin>248</ymin>
+  <xmax>495</xmax>
+  <ymax>663</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>362</xmin>
+  <ymin>178</ymin>
+  <xmax>664</xmax>
+  <ymax>450</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>976</xmin>
+  <ymin>158</ymin>
+  <xmax>1231</xmax>
+  <ymax>568</ymax>
+</bndbox>
+</object>
+<object>
+<name>chair</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<Difficult>0</Difficult>
+<bndbox>
+  <xmin>718</xmin>
+  <ymin>166</ymin>
+  <xmax>971</xmax>
+  <ymax>440</ymax>
+</bndbox>
+</object>
+</annotation>
