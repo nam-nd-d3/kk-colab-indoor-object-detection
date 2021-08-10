@@ -1,19 +1,3 @@
-# coding:utf-8
-"""
-Name : generate_tfrecord.py
-Author : Nam Nguyen
-Contact : nam.nd.d3@gmail.com
-Time    : 7/22/2021 8:06 AM
-Desc:
-"""
-"""
-Usage:
-# Create train data:
-python generate_tfrecord.py --label=<LABEL> --csv_input=<PATH_TO_ANNOTATIONS_FOLDER>/train_labels.csv  --output_path=<PATH_TO_ANNOTATIONS_FOLDER>/train.record <PATH_TO_ANNOTATIONS_FOLDER>/label_map.pbtxt
-# Create test data:
-python generate_tfrecord.py --label=<LABEL> --csv_input=<PATH_TO_ANNOTATIONS_FOLDER>/test_labels.csv  --output_path=<PATH_TO_ANNOTATIONS_FOLDER>/test.record  --label_map <PATH_TO_ANNOTATIONS_FOLDER>/label_map.pbtxt
-"""
-
 from __future__ import division
 from __future__ import print_function
 from __future__ import absolute_import
